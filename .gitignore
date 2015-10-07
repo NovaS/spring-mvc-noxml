@@ -1,0 +1,16 @@
+# Eclipse project files
+.classpath
+.project
+.settings
+build
+bin
+log
+
+# Maven output
+target
+*.releaseBackup
+release.properties
+
+# OSX system files
+.DS_Store
+
